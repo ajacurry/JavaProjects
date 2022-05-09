@@ -1,6 +1,8 @@
 //Aja Curry
 //Alex Soyoh
 
+//Used with creature.java
+
 import java.util.Scanner;
 import java.io.*;
 
