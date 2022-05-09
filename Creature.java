@@ -1,6 +1,8 @@
 //Aja Curry
 //Alex Soyoh
 
+//Used with objects.java
+
 import java.util.Scanner;
 import java.io.*;
 
